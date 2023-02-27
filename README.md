@@ -2,7 +2,7 @@
 
 # To crete roboadvisor bot.
 
-0.
+To create a bot that will recommend an investment portfolio for a retirement plan
 
 ## Technologies
 
